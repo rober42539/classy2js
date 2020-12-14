@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/rcampbell/Source/classy2js/src/assets/logo.png"
+   inkscape:export-xdpi="38.399998"
+   inkscape:export-ydpi="38.399998">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1511698"
+     inkscape:cx="-35.327014"
+     inkscape:cy="322.00395"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g866"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g857"
+       transform="matrix(0.79299759,0,0,0.79299759,16.352233,15.160841)">
+      <g
+         id="g866"
+         transform="translate(-0.2127253,1.8195697)">
+        <ellipse
+           style="fill:#ffa1a8;fill-opacity:1;stroke-width:0.339622;stop-color:#000000"
+           id="ellipse848"
+           cx="55.31076"
+           cy="73.266289"
+           rx="62.241161"
+           ry="41.15493"
+           transform="rotate(4.9455845)" />
+        <ellipse
+           style="fill:#e4a1a8;fill-opacity:1;stroke-width:0.372256;stop-color:#000000"
+           id="ellipse846"
+           cx="76.444298"
+           cy="43.293747"
+           rx="68.222054"
+           ry="45.109596"
+           transform="rotate(6.1878923)" />
+        <ellipse
+           style="fill:#e47fa8;fill-opacity:1;stroke-width:0.321032;stop-color:#000000"
+           id="path17"
+           cx="51.804771"
+           cy="72.600441"
+           rx="58.83427"
+           ry="38.902233"
+           transform="rotate(-8.6069197)" />
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:29.7975px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.558702"
+           x="16.953493"
+           y="69.849075"
+           id="text835"><tspan
+             sodipodi:role="line"
+             id="tspan833"
+             x="16.953493"
+             y="69.849075"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Oleo Script';-inkscape-font-specification:'Oleo Script';fill:#eeeeec;stroke-width:0.558702">Classy2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:19.1285px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#204a87;stroke-width:0.256185"
+           x="50.308659"
+           y="86.95668"
+           id="text21"><tspan
+             sodipodi:role="line"
+             id="tspan19"
+             x="50.308659"
+             y="86.95668"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.1285px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';fill:#3465a4;stroke-width:0.256185">JS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
